@@ -1,0 +1,10 @@
+# --- Secrets: never commit these ---
+spotify_secrets.py
+secrets.h
+.env
+*Secret*.txt
+
+# --- Python ---
+.venv/
+__pycache__/
+*.pyc
